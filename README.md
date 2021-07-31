@@ -7,7 +7,7 @@
 <p align="center">💰 Your personal finance control open. 💹</p>
 
 <p align="center">
- <a href="#about_project">About project</a> •
+ <a href="#about-project">About project</a> •
  <a href="#feature_roadmap">Features and Roadmap</a> • 
  <a href="#technologies">Technologies</a> • 
  <a href="#getting_started">Getting started</a> • 
@@ -19,7 +19,7 @@
 	🚧 Bitwallet are in development. 🚀
 </h4>
 
-## :about_project: About project
+## About project
 
 Bitwallet is a simple way to organize your finance transactions and monitoring your finance health through the Dashboard with the resume transactions. 
 
